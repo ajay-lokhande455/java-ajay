@@ -1,4 +1,4 @@
-package practiceProgram.practiceProgram.pettern;
+package practiceProgram.practiceProgram.pattern;
 
 public class demo1 {
     public static void main(String[] args) {

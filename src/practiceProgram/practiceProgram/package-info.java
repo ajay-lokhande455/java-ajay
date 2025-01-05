@@ -1,1 +1,1 @@
-package practiceProgram;
+package practiceProgram.practiceProgram;

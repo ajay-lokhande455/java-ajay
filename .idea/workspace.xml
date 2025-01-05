@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3fac4567-5020-4138-9d98-1ad0ad72c1c6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,25 +10,149 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2k0x8eAVI2iiQyft161B6jprr9s" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Test (1).executor": "Run",
+    "Application.Test (2).executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestAbstraction (1).executor": "Run",
+    "Application.TestAbstraction (2).executor": "Run",
+    "Application.TestAbstraction.executor": "Run",
+    "Application.butterflyPattern.executor": "Run",
+    "Application.demo1.executor": "Run",
+    "Application.demo2.executor": "Run",
+    "Application.diamondStarPattern.executor": "Run",
+    "Application.hollowDiamond.executor": "Run",
+    "Application.hollowDiamondPyramid.executor": "Run",
+    "Application.hollowHourglassPattern.executor": "Run",
+    "Application.hollowKPattern.executor": "Run",
+    "Application.hollowLeftPascalsTriangle.executor": "Run",
+    "Application.hollowReversPattern.executor": "Run",
+    "Application.hollowRightPascals.executor": "Run",
+    "Application.hollowTrianglePattern.executor": "Run",
+    "Application.hollowTrianglePattern2.executor": "Run",
+    "Application.kPattern.executor": "Run",
+    "Application.leftPascalsTriangle.executor": "Run",
+    "Application.leftTriangle.executor": "Run",
+    "Application.mirrorImageTriangle.executor": "Run",
+    "Application.reversLeftHalfPyramid.executor": "Run",
+    "Application.reversNumberTriangle.executor": "Run",
+    "Application.rightPascalsTriangle.executor": "Run",
+    "Application.rightTriangle.executor": "Run",
+    "Application.zPattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowRun.ShowToolbar": "false",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/ajay-java/java ajay/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="practiceProgram" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practiceProgram.practiceProgram.pattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.hollowHourglassPattern">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceProgram.practiceProgram.inheritance.Test" />
+      <module name="java ajay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceProgram.practiceProgram.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceProgram.practiceProgram.inheritance.Test" />
+      <module name="java ajay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceProgram.practiceProgram.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceProgram.practiceProgram.inheritance.Test" />
+      <module name="java ajay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceProgram.practiceProgram.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAbstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceProgram.practiceProgram.inheritance.TestAbstraction" />
+      <module name="java ajay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceProgram.practiceProgram.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hollowHourglassPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceProgram.practiceProgram.pattern.hollowHourglassPattern" />
+      <module name="java ajay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practiceProgram.practiceProgram.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.hollowHourglassPattern" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.TestAbstraction" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +163,17 @@
       <updated>1722434138914</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

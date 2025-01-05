@@ -1,4 +1,4 @@
-package practiceProgram.practiceProgram.pettern;
+package practiceProgram.practiceProgram.pattern;
 
 public class leftTriangle {
     public static void main(String[] args) {
